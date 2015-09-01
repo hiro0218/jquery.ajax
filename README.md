@@ -14,4 +14,5 @@ jQueryのカスタムビルドを利用して、ajax以外のモジュールを�
 
 ### 実行するタスク
 
-		grunt custom:-css,-deprecated,-dimensions,-effects,-event,-event/alias,-offset,-wrap,-core/ready,-deferred,-exports/global,-exports/amd,-sizzle compare_size
+	grunt custom:-css,-deprecated,-dimensions,-effects,-event,-event/alias,-offset,-wrap,-core/ready,-deferred,-exports/global,-exports/amd,-sizzle compare_size
+# jquery.ajax 
