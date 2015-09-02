@@ -10,8 +10,8 @@ jQueryのカスタムビルドを利用して、ajax以外のモジュールを�
 * ajax/xhr
 * ajax/script
 * ajax/jsonp
-
+* deferred
 
 ### 実行するタスク
 
-	grunt custom:-css,-deprecated,-dimensions,-effects,-event,-event/alias,-offset,-wrap,-core/ready,-deferred,-exports/global,-exports/amd,-sizzle compare_size
+	grunt custom:-css,-deprecated,-dimensions,-effects,-event,-event/alias,-offset,-wrap,-core/ready,-exports/global,-exports/amd,-sizzle compare_size
